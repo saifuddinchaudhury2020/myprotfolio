@@ -1,0 +1,545 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    
+  /* this is responsive part of heading */
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 10%;
+    }
+    .navbar-nav {
+        background: #2b1616;
+    }
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/img/about_logo.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .banner_text {
+        padding-top: 104px;
+        padding-bottom: 150px;
+    }
+    .banner_text h2{
+        font-size: 29px;
+    }
+    /* this end part of heading of responsive */  
+    /* abourt part responsive start */
+  #about_part {
+	padding: 17px 0px;
+}
+    #about_part h3 {
+        text-align: center;
+        margin-top: 20px;
+    }
+   .about_text p {
+	padding: 5px 0px;
+	line-height: ;
+	margin: 0px;
+}
+    .about_text a {
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	display: inline-block;
+}
+  /* abourt part responsive hasbeen end */
+  /*start vedio part responsive desin*/
+    #video_part {
+	padding: 71px 0px;
+}
+.video_icon {
+	margin: 0 auto;
+}      
+/*end vedio part responsive desin */
+   /* start work part  */
+ #our_work {
+	padding: 20px 0px;
+}   
+  .about_headeing p {
+	padding-bottom: 26px;
+}
+   .about_img {
+	padding-top: 15px;
+}
+    .about_img h3 {
+	padding-bottom: 15px;
+}
+    .about_img p{
+        padding: 0px;
+    }
+/* end work part */
+   /* protfiloo part responsivehasbeen start */
+   #protfoli_part {
+	padding: 20px 0px;
+}
+    .left_protfolio_text {
+	padding-bottom: 20px;
+}
+    .prtpolio_more {
+	padding: 20px 0px;
+}
+    .prtpolio_more a {
+	width: 100%;
+	text-align: center;
+}
+    
+    .right_protfolio_text p {
+	
+	font-size: 15px;
+	
+}
+/* protfillo part responsive hasbeen end */   
+  /* TEAM SLIDEING RESPONSEVE AREA START */
+    #team_member {
+	padding: 20px 0px;
+}
+ .team_member_text p {
+	padding-bottom: 50px;
+}   
+    .team_slide {
+	padding-bottom: 40PX;
+}
+    #testimonial_part {
+	padding: 20px 0px;
+}
+/* TEAMSLIDENING RESPONSIVE AREA END */    
+ /* teastominial part sart */
+    .left_arrow {
+	left: 12%;
+	top: 80%;
+}
+.right_arrow {
+	left: 81%;
+	top: 80%;
+}    
+    .testimonial_text p {
+	padding: 0px 85px;
+	margin: 0px;
+    font-size: 12px;
+}
+    .testimonial_text h5 {
+	font-size: 7px;
+	padding-top: 4px;
+}
+   .testimonial_text h3 {
+	padding-top: 15px;
+}
+/* teastominail part end */    
+    /*contart area responsive start */
+    #contarct_part {
+	padding: 20px;
+}
+    .contact_area_login h2, .contact_comany h2 {
+	font-size: 20px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+    .btn_login {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+    /* contart area responsve end */
+    /* footer area start */
+    .footer_top_content {
+        font-size: 13px;
+    }
+    .send-input {
+        background: transparent;
+        border-radius: 0px;
+        color: #ffffff;
+        /* padding: 14px 8px; */
+        padding-left: 0px;
+        padding: 14px 1px;
+    }
+    .send_button {
+        padding: 2px 13px;
+    }
+    #footer_Part {
+	text-align: center;
+}
+  #footer_Part {
+	padding: 40px 0px;
+      font-size: 10px;
+}  
+    .form-inline {
+	display: inline-block;
+}
+    .footer_right button {
+	padding: 1px 30px;
+}
+    .footer_bottom_right p {
+	font-size: 12px;
+}
+ /*footer part responsive design end */   
+    
+    
+    
+    
+    
+/* this is part of  starto testimonial arrow */
+    .right_arrow {
+	left: 76%;
+	top: 78%;
+}
+.left_arrow {
+	left: 39%;
+	top: 78%;
+}    
+/* this is part end of testimonial arrow */    
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* this is responsive part of heading */
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 10%;
+    }
+    .navbar-nav {
+        background: #2b1616;
+    }
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/img/about_logo.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .banner_text {
+        padding-top: 104px;
+        padding-bottom: 150px;
+    }
+    .banner_text h2{
+        font-size: 29px;
+    }
+    /* this end part of heading of responsive */  
+    /* abourt part responsive start */
+  #about_part {
+	padding: 17px 0px;
+}
+    #about_part h3 {
+        text-align: center;
+        margin-top: 20px;
+    }
+   .about_text p {
+	padding: 5px 0px;
+	line-height: ;
+	margin: 0px;
+}
+    .about_text a {
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	display: inline-block;
+}
+  /* abourt part responsive hasbeen end */
+  /*start vedio part responsive desin*/
+    #video_part {
+	padding: 71px 0px;
+}
+.video_icon {
+	margin: 0 auto;
+}      
+/*end vedio part responsive desin */
+   /* start work part  */
+ #our_work {
+	padding: 20px 0px;
+}   
+  .about_headeing p {
+	padding-bottom: 26px;
+}
+   .about_img {
+	padding-top: 15px;
+}
+    .about_img h3 {
+	padding-bottom: 15px;
+}
+    .about_img p{
+        padding: 0px;
+    }
+/* end work part */
+   /* protfiloo part responsivehasbeen start */
+   #protfoli_part {
+	padding: 20px 0px;
+}
+    .left_protfolio_text {
+	padding-bottom: 20px;
+}
+    .prtpolio_more {
+	padding: 20px 0px;
+}
+    .prtpolio_more a {
+	width: 100%;
+	text-align: center;
+}
+/* protfillo part responsive hasbeen end */   
+  /* TEAM SLIDEING RESPONSEVE AREA START */
+    #team_member {
+	padding: 20px 0px;
+}
+ .team_member_text p {
+	padding-bottom: 50px;
+}   
+    .team_slide {
+	padding-bottom: 40PX;
+}
+    #testimonial_part {
+	padding: 20px 0px;
+}
+/* TEAMSLIDENING RESPONSIVE AREA END */    
+ /* teastominial part sart */
+    .left_arrow {
+	left: 12%;
+	top: 80%;
+}
+.right_arrow {
+	left: 81%;
+	top: 80%;
+}    
+    .testimonial_text p {
+	padding: 0px 85px;
+	margin: 0px;
+    font-size: 12px;
+}
+    .testimonial_text h5 {
+	font-size: 7px;
+	padding-top: 4px;
+}
+   .testimonial_text h3 {
+	padding-top: 15px;
+}
+/* teastominail part end */    
+    /*contart area responsive start */
+    #contarct_part {
+	padding: 20px;
+}
+    .contact_area_login h2, .contact_comany h2 {
+	font-size: 20px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+    .btn_login {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+    /* contart area responsve end */
+    /* footer area start */
+    .footer_top_content {
+        font-size: 13px;
+    }
+    .send-input {
+        background: transparent;
+        border-radius: 0px;
+        color: #ffffff;
+        /* padding: 14px 8px; */
+        padding-left: 0px;
+        padding: 14px 1px;
+    }
+    .send_button {
+        padding: 2px 13px;
+    }
+    #footer_Part {
+	text-align: center;
+}
+  #footer_Part {
+	padding: 40px 0px;
+      font-size: 10px;
+}  
+    .form-inline {
+	display: inline-block;
+}
+    .footer_right button {
+	padding: 1px 30px;
+}
+    .footer_bottom_right p {
+	font-size: 12px;
+}
+ /*footer part responsive design end */
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* this is responsive part of heading */
+    .navbar-light .navbar-nav .nav-link {
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link::after {
+        width: 10%;
+    }
+    .navbar-nav {
+        background: #2b1616;
+    }
+    .navbar-light .navbar-toggler {
+        background: #fff;
+    }
+    .navbar-light .navbar-toggler-icon {
+        background: url(../img/img/about_logo.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    .banner_text {
+        padding-top: 104px;
+        padding-bottom: 150px;
+    }
+    /* this end part of heading of responsive */
+    /* abourt part responsive start */
+    #about_part {
+	padding: 50px 0px;
+}
+    #about_part h3 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .about_text p {
+	padding: 10px 0px;
+}
+    .about_text a {
+        width: 100%;
+        text-align: center;
+    }
+    /* abourt part responsive hasbeen end */
+/*start vedio part responsive desin*/
+    #video_part {
+	 padding: 105px 0px; 
+}
+.video_icon {
+	margin: 0 auto;
+}    
+/* end vedio part responsive design */
+/* start work part  */
+ #our_work {
+	padding: 30px 0px;
+}   
+  .about_headeing p {
+	padding-bottom: 26px;
+}
+  .about_img {
+	padding-top: 30px;
+}  
+    .about_img h3 {
+	padding-bottom: 15px;
+}
+    .about_img p{
+        padding: 0px;
+    }
+/* end work part */
+/* protfiloo part responsivehasbeen start */
+    #protfoli_part {
+	padding: 40px 0px;
+}
+    .prtpolio_more a {
+	width: 100%;
+	text-align: center;
+}
+/* protfillo part responsive hasbeen end */    
+/* TEAM SLIDEING RESPONSEVE AREA START */
+    .team_slide {
+	padding-bottom: 40PX;
+}
+/* TEAMSLIDENING RESPONSIVE AREA END */    
+   /* testiominal part design start*/
+    #testimonial_part {
+	padding: 40px 0px;
+}
+    .testimonial_text p {
+    padding: 0px 85px;
+        }
+   .testimonial_text h3 {
+	padding-top: 15px;
+}
+  #testimonial_part .right_arrow {
+	left: 86%;
+}
+  #testimonial_part .left_arrow {
+	z-index: 100;
+	position: absolute;
+	font-size: 23px;
+	color: #fff;
+	left: 12%;
+	top: 73%;
+	cursor: pointer;
+}
+    /* TESTIMONIAL PART DESING END */
+    /*contart area responsive start */
+    #contarct_part {
+	padding: 40px;
+}
+    .contact_area_login h2, .contact_comany h2 {
+	text-align: center;
+}
+    .btn_login {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+    /* contart area responsve end */
+    /* footer area responsive  start */
+    #footer_Part {
+	text-align: center;
+    padding: 40px 0px;    
+}
+    .footer_top_content h4 {
+	padding-bottom: 20px;
+}
+    .footer_top_middle p {
+	padding: 0px 235px;
+}
+  .form-inline {
+	display: inline-block;
+} 
+   .send-input {
+	color: #fff;
+	/* padding-left: 0px; */
+	text-align: center;
+} 
+  .footer_right button {
+	padding: 9px 45px;
+}
+    /* footer area responsive end */ 
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* vedio part desing  start */
+    .video_icon h3 {
+        font-size: 13px;
+    }
+    /* vedio part desing end */
+    /* testimonial part area start */
+    .left_arrow {
+	left: 22%;
+}
+    .right_arrow {
+	left: 77%;
+        }
+    /* testimonial part area end */
+    /* footer area start */
+    .footer_top_content {
+        font-size: 13px;
+    }
+    .send-input {
+        background: transparent;
+        border-radius: 0px;
+        color: #ffffff;
+        /* padding: 14px 8px; */
+        padding-left: 0px;
+        padding: 14px 1px;
+    }
+    .send_button {
+        padding: 2px 13px;
+    }
+    /* footer area end */
+}
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+    ...
+}
